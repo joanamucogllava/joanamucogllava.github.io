@@ -237,7 +237,7 @@ audio:not([controls]) {
   height: 0;
 }
 a {
-  background-color: #3d7e8e;
+  background-color: #transparent;
 }
 a:active,
 a:hover {
